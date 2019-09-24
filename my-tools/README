@@ -1,0 +1,3 @@
+Need: prettytable  install:$ pip install PrettyTable
+put the data into ./data/ and write 'data/control.log_xxxx' into data_name
+run $ python control_benchmark.py
